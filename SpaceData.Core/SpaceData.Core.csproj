@@ -6,4 +6,10 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="models\" />
+    <Folder Include="interfaces\" />
+    <Folder Include="cache\" />
+  </ItemGroup>
+
 </Project>
